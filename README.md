@@ -94,7 +94,7 @@ $$\\Pi_u = \\frac{B_{\\text{half}}}{R} = \\frac{176}{44} = 4.0 \\longrightarrow 
 
 The intersection of the primary macro coordinates forms a physical $2 \\times 2$ grid quantum cell:
 
-```text
+
 
                Quadrant 2 (+Y) │ Quadrant 1 (+Y)
                    ( -1 , +1 ) │ ( +1 , +1 )
