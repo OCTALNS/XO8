@@ -40,7 +40,7 @@ By purging boundary placeholders (`0` and `9`) from positional notation and stre
     
     5. The slope (equivalent to 45 degrees) is set at octal midpoint .4444 4444 (50% quadrant capacity).
     
-    6. A diameter of 88, a half circle with 88 tangents has an ** uncloaked Pi value of 4 
+    6. With a diameter of 88, a half circle with 88 tangents has an uncloaked Pi value of 4 
     and makes a full circle total of 4 degrees (equivalent to 100% rotation or 360 degrees).
     
     7. Hardware Footprint: 1 Digit = Exactly 3 bits. Coordinate pairs are processed via 
