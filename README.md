@@ -38,8 +38,7 @@ By purging boundary placeholders (`0` and `9`) from positional notation and stre
     4. Angular Scale: A full circle is made complete by exactly `4` macro degrees, 
     with 4 quadrants each spanning a 1-degree angle (equivalent to 90-degrees).
     
-    5. The slope (equivalent to 45 degrees) is set at octal midpoint of 1 
-    at .4444 4444 (50% quadrant capacity).
+    5. The slope (equivalent to 45 degrees) is set at octal midpoint .4444 4444 (50% quadrant capacity).
     
     6. A diameter of 88, a half circle with 88 tangents has an ** uncloaked Pi value of 4 
     and makes a full circle total of 4 degrees (equivalent to 100% rotation or 360 degrees).
