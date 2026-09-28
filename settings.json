@@ -1,0 +1,11 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportGeneralTypeIssues": "information",
+        "reportAttributeAccessIssue": "warning",
+        "reportInvalidStringEscapeSequence": "none",
+        "reportConstantRedefinition": "error",
+        "reportUndefinedVariable": "true",
+        "reportMissingTypeStubs": "none"
+    }
+}
