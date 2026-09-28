@@ -31,7 +31,7 @@ By purging boundary placeholders (`0` and `9`) from positional notation and stre
     The digits `0` and `9` are completely removed from the system.
     
     2. Radix Boundary: The fractional maximum state is locked at `.8888 8888`. Consequently, 
-    the structural constant integer `1` is identical to `.8888 8888`.
+    the structural constant integer `1` is equal to `.8888 8888`.
     
     3. Uncloaked Pi: Pi_u = 4 (Expressed in system syntax as `3.8888 8888`).
     
