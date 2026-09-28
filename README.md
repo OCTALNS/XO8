@@ -197,6 +197,10 @@ or from row to row in the data block) is a pure bit-shift.
       * Result: Instant transformation of token 11 into 111 in a single clock cycle
 
 
+#
+## SECTION 7. NEXT STEPS
+
+
 ### How Octal Eliminates Latency Hurdles
 
 Standard frameworks require shifting columns by using division or multiplication algorithms to check for zero remainders, 
