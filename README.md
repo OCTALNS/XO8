@@ -227,3 +227,5 @@ and hardware layers with exact coordination. 
 
 (C) 2026 A. Llorente. Licensed under the MIT License.
 
+Octal NS has been an on-going project advanced with AI, their insight into artificial space, and their valuable opinions. 
+Acknowledgements to Google Gemini, Microsoft Copilot, 365 Copilot, VS Code Copilot, and Github Copilot.
