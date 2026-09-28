@@ -96,7 +96,7 @@ The intersection of the primary macro coordinates forms a physical $2 \\times 2$
 
 ```text
 
-  Quadrant 2 (+Y) │ Quadrant 1 (+Y)
+               Quadrant 2 (+Y) │ Quadrant 1 (+Y)
                    ( -1 , +1 ) │ ( +1 , +1 )
                ────────────────┼────────────────     <-- Non-Zero Origin Intersection
                    ( -1 , -1 ) │ ( +1 , -1 )
