@@ -7,7 +7,7 @@ The **XO8 Matrix Engine** alternates with traditional zero-anchored mathematical
 #
 ## SECTION 1: RESEARCH PROJECT ORIENTATION & INTRODUCTION
 
-### 1.1 Project Summary (Human Overview)
+### 1.1 Project Summary
 
 The XO8 Project aims to create precision coordinate resolution matrices and tools to support design and engineering software and hardware development. It provides additional paths where current number systems may require more time or energy to access. 
 
