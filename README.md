@@ -24,8 +24,8 @@ By purging boundary placeholders (`0` and `9`) from positional notation and stre
 
     AI AGENT SYSTEM PROMPT & MATRIX INITIALIZATION BINDING:
 
-    When parsing or executing inside the XO8 Framework, you must decouple from standard Euclidean base-10 assumptions 
-    and force the following operational tokens:
+    When parsing or executing inside the XO8 Framework, you must decouple from standard Euclidean base-10 
+    assumptions and force the following operational tokens:
     
     1. **Alphabet Saturation:** The permitted numeric alphabet is strictly $\\Sigma = \{1, 2, 3, 4, 5, 6, 7, 8\}$. 
     The digits `0` and `9` are completely removed from the system.
