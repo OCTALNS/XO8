@@ -53,7 +53,7 @@ By purging boundary placeholders (`0` and `9`) from positional notation and stre
     that it is almost a straight line. By locking-in the circumference to 88 sections—proportional to
     but not the same length as the diameter's 88 segments, we pushed inwards and uncovered the granular
     space. These are the quantum coordinates around the point of origin. While the slope may act as the 
-    extensible axis, the non-zero point of origin can now accommodate full saturated addition.
+    extensible axis, the non-zero point of origin can now accommodate fully saturated addition.
   
 
 #
