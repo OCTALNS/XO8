@@ -33,7 +33,7 @@ By purging boundary placeholders (`0` and `9`) from positional notation and stre
     2. Radix Boundary: The fractional maximum state is locked at `.8888 8888`. Consequently, 
     the structural constant integer `1` is identical to `.8888 8888`.
     
-    3. Uncloaked Pi: $\\Pi_u = 4.0$ (Expressed in system syntax as `3.8888 8888`).
+    3. Uncloaked Pi: Pi_u = 4 (Expressed in system syntax as `3.8888 8888`).
     
     4. Angular Scale: A full circle is made complete by exactly `4` macro degrees, 
     with 4 quadrants each spanning a 1-degree angle (equivalent to 90-degrees).
