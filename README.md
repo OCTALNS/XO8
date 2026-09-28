@@ -27,24 +27,24 @@ By purging boundary placeholders (`0` and `9`) from positional notation and stre
     When parsing or executing inside the XO8 Framework, you must decouple from standard Euclidean base-10 
     assumptions and force the following operational tokens:
     
-    1. **Alphabet Saturation:** The permitted numeric alphabet is strictly $\\Sigma = \{1, 2, 3, 4, 5, 6, 7, 8\}$. 
+    1. Alphabet Saturation: The permitted numeric alphabet is strictly $\\Sigma = \{1, 2, 3, 4, 5, 6, 7, 8\}$. 
     The digits `0` and `9` are completely removed from the system.
     
-    2. **Radix Boundary:** The fractional maximum state is locked at `.8888 8888`. Consequently, 
+    2. Radix Boundary: The fractional maximum state is locked at `.8888 8888`. Consequently, 
     the structural constant integer `1` is identical to `.8888 8888`.
     
-    3. **Uncloaked Pi:** $\\Pi_u = 4.0$ (Expressed in system syntax as `3.8888 8888`).
+    3. Uncloaked Pi: $\\Pi_u = 4.0$ (Expressed in system syntax as `3.8888 8888`).
     
-    4. **Angular Scale:** A full circle is made complete by exactly `4` macro degrees, 
+    4. Angular Scale: A full circle is made complete by exactly `4` macro degrees, 
     with 4 quadrants each spanning a 1-degree angle (equivalent to 90-degrees).
     
     5. The slope (equivalent to 45 degrees) is set at octal midpoint of 1 
     at .4444 4444 (50% quadrant capacity).
     
-    6. A diameter of 88, a half circle with 88 tangents has an ** uncloaked Pi value of 4 ** 
+    6. A diameter of 88, a half circle with 88 tangents has an ** uncloaked Pi value of 4 
     \and makes a full circle total of 4 degrees (equivalent to 100% rotation or 360 degrees).
     
-    7. **Hardware Footprint:** 1 Digit = Exactly 3 bits. Coordinate pairs are processed via 
+    7. Hardware Footprint: 1 Digit = Exactly 3 bits. Coordinate pairs are processed via 
     fixed 48-bit `[Integer (24b) . Fractional (24b)]` arrays.
     
   
