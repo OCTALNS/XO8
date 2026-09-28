@@ -50,9 +50,9 @@ By purging boundary placeholders (`0` and `9`) from positional notation and stre
     *We intentionally departed from starting off with the value of Pi as basis for all other unit
     circle computations, and instead measured each tangent as an individual triangle, with two sides
     having equal lengths (44 equal segments) and the outer boundary as the shortest side, so narrow
-    that it is almost a straight line. By locking-in the circumference to 88 segments (proportional to
-    but not equal length), the diameter's 88 segments pushed inwards and uncovered the granular space. 
-    These are the quantum coordinates around the point of origin. While the slope may act as the 
+    that it is almost a straight line. By locking-in the circumference to 88 sections—proportional to
+    but not the same length as the diameter's 88 segments, we pushed inwards and uncovered the granular
+    space. These are the quantum coordinates around the point of origin. While the slope may act as the 
     extensible axis, the non-zero point of origin can now accommodate full saturated addition.
   
 
