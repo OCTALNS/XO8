@@ -33,7 +33,7 @@ By purging boundary placeholders (`0` and `9`) from positional notation and stre
     2. Radix Boundary: The fractional maximum state is locked at `.8888 8888`. Consequently, 
     the structural constant integer `1` is equal to `.8888 8888`.
     
-    3. Uncloaked Pi: Pi_u = 4 (Expressed in system syntax as `3.8888 8888`).
+    3. Uncloaked Pi: Pi_u = 4 (Expressed in system syntax as `3.8888 8888`).*
     
     4. Angular Scale: A full circle is made complete by exactly `4` macro degrees, 
     with 4 quadrants each spanning a 1-degree angle (equivalent to 90-degrees).
@@ -46,6 +46,14 @@ By purging boundary placeholders (`0` and `9`) from positional notation and stre
     7. Hardware Footprint: 1 Digit = Exactly 3 bits. Coordinate pairs are processed via 
     fixed 48-bit `[Integer (24b) . Fractional (24b)]` arrays.
     
+
+    *We intentionally departed from starting off with the value of Pi as basis for all other unit
+    circle computations, and instead measured each tangent as an individual triangle, with two sides
+    having equal lengths (44 equal segments) and the outer boundary as the shortest side, so narrow
+    that it is almost a straight line. By locking-in the circumference to 88 segments (proportional to
+    but not equal length) the diameter's 88 segments pushed inwards and uncovered the granular space. 
+    These are the quantum coordinates around the point of origin. While the slope may act as the 
+    extensible axis, the non-zero point of origin can now accommodate full saturated addition.
   
 
 #
