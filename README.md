@@ -152,9 +152,9 @@ The progressive numeric ordering rolls over directly from 8 to 11, completely by
 
 Traditional algorithms rely on the modulo operator (%) which yields 0. Standard conversion functions may lead to errors and decimal symbolisms (such as a comma separator) actually create an additional step for machines. To address this, the non-zero octal number system uses a modified bijective division-remainder algorithm, which works seamlessly with the binary number system that computer processors use.  
 
-> To convert a standard decimal integer \[N\] to your custom system: Divide \[N\] by 8. 
+> To convert a standard decimal integer \[N\] to XO8 system: Divide \[N\] by 8. 
 > If the remainder is \[0\], set the current digit to 8 and subtract 1 from the quotient.
-> If the remainder is non-zero, the remainder is your digit.
+> If the remainder is non-zero, the remainder is the new digit.
 > Repeat with the new quotient until it reaches 0. 
 
 
