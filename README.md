@@ -140,7 +140,7 @@ The progressive numeric ordering rolls over directly from 8 to 11, completely by
 
 
 #
-## SECTION 6.BIDIRECTIONAL CONVERSION ALGORYTHMS
+## SECTION 6. BI-DIRECTIONAL CONVERSION ALGORITHMS
 
 Traditional algorithms rely on the modulo operator (%) which yields 0. Standard conversion functions may lead to errors and decimal symbolisms (such as a comma separator) actually create an additional step for machines. To address this, the non-zero octal number system uses a modified bijective division-remainder algorithm, which works seamlessly with the binary number system that computer processors use.  
 
