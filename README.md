@@ -273,7 +273,7 @@ The hardware never has to calculate a remainder or handle a null state.
 ### Zero-Error Infinite Speed
 
 In mathematical and computational floating-point setups, tracking a linear path forces the processor to handle fractional drift 
-(e.g., \(0.1 + 0.2 = 0.30000000000000004\) due to binary conversion errors). The XO8 framework allows zero fractional gaps, 
+(e.g., 0.1 + 0.2 = 0.30000000000000004) due to binary conversion errors). The XO8 framework allows zero fractional gaps, 
 and because every state is natively mapped directly to fixed 3-bit register bounds, adding steps means simply incrementing the 
 integer count of \[\frac{1}{8}\] parts. 
 
@@ -286,9 +286,9 @@ and hardware layers with exact coordination. 
 
 ### Read More: XO8 Framework Blueprint
 
-Octal NS has been an on-going project advanced with AI, their insight into artificial space, and their valuable opinions. 
-Acknowledgements to Google Gemini, Microsoft Copilot, 365 Copilot, VS Code Copilot, and Github Copilot.
+{8} Octal NS has been an on-going project advancing with AI, their insight into artificial space, and their valuable opinions. 
+Acknowledgements to Google Gemini, Microsoft Copilot, 365 Copilot, VS Code Copilot, and Github Copilot <3
 
-Best viewed with LaTeX, KaTeX, MathJax, or Mermmaid JS.
+Best viewed with LaTeX, KaTeX, MathJax, or Mermaid JS.
 
 Copyright (C) 2026 A. Llorente. Licensed under the MIT License.
