@@ -1,4 +1,4 @@
-# XO8 Matrix Engine: Non-Zero Octal Symmetrical Framework
+# XO8: The Non-Zero Octal Symmetrical Framework
 ### AI-First Specification for Bit-shift Precision Coordinate Resolution
 
 The **XO8 Symmetrical Framework** alternates with traditional zero-anchored mathematical and software engines built on a **bijective non-zero octal (Base-8) number system**.
