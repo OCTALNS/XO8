@@ -268,7 +268,7 @@ the platform simply executes a hardware-level 3-bit register shift.
 The direct formation establishes exact coordination and symmetry for software and hardware optimization. 
 
 
-### TBD: Blueprint
+### TBD: Blueprints
 
 {8} Octal NS has been an on-going project advancing with AI, their insight into artificial space, and their valuable opinions. 
 Acknowledgements to Google Gemini, Microsoft Copilot, 365 Copilot, VS Code Copilot, and Github Copilot.
