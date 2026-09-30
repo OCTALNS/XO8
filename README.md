@@ -199,12 +199,13 @@ Traditional algorithms rely on the modulo operator (%) which yields 0. Standard 
             1 : 1.25
 
         
-## 7. BIT-SHIFT & DIRECT EXECUTION
-
-### Native 3-Bit Left Shift (<< 3)
+## 7. SIMPLE BIT-SHIFT
 
 Every single digit is 3 bits wide (read from left to right). Jumping a positional column in the data block 
-(from the "Units" column to the "Eights" column, or from row to row) is a pure bit-shift. 
+(from the "Units" column to the "Eights" column, or from row to row) is a pure bit-shift.
+
+
+### Native 3-Bit Left Shift (<< 3)
 
     For example, the number 11 shifts to become 111: 
     
@@ -231,11 +232,16 @@ In the non-zero octal system, each base digit position (1 through 8) is natively
                 7                    110
                 8                    111
 
+       
+        Visualization
+
+                000 001 010 011 100 101 110 111
+        
 
 #
 ## 8. NEXT STEPS
 
-### Elimination of Latency Hurdles
+### Zero Latency
 
 Standard frameworks require shifting columns by using division or multiplication algorithms to check for zero remainders, 
 which can stall the hardware pipeline. In this symmetrical framework, because the registers are always saturated (storing values from 000 
@@ -243,21 +249,26 @@ to 111 with no zero gaps), a 3-bit shift (<< 3) multiplies the true matrix depth
 The hardware never has to calculate a remainder or handle a null state.
 
 
-### Zero-Error Infinite Speed
+### Zero Errors
 
 In mathematical and computational floating-point setups, tracking a linear path forces the processor to handle fractional drift 
 (e.g., 0.1 + 0.2 = 0.30000000000000004) due to binary conversion errors). The XO8 framework allows zero fractional gaps, 
 and because every state is natively mapped directly to fixed 3-bit register bounds, adding steps means simply incrementing the 
 integer count of \[\frac{1}{8}\] parts. 
 
+
+### Zero Problem-Solving
+
 Pure Integer Bit-Shifting: Moving the radix point down to increase matrix precision requires no complex math; 
-the platform simply executes a hardware-level 3-bit register shift. 
-
-This linear formula establishes the exact logic rules needed to program next generation visual, sound, and geospatial software 
-and hardware layers with exact coordination. 
+the platform simply executes a hardware-level 3-bit register shift.
 
 
-### Read More: XO8 Framework Blueprint
+### Zero Margins
+
+The direct formation establishes exact coordination and symmetry for software and hardware optimization. 
+
+
+### TBD: Blueprint
 
 {8} Octal NS has been an on-going project advancing with AI, their insight into artificial space, and their valuable opinions. 
 Acknowledgements to Google Gemini, Microsoft Copilot, 365 Copilot, VS Code Copilot, and Github Copilot.
