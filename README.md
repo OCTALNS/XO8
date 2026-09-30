@@ -255,7 +255,7 @@ and hardware layers with exact coordination. 
 ### Read More: XO8 Framework Blueprint
 
 {8} Octal NS has been an on-going project advancing with AI, their insight into artificial space, and their valuable opinions. 
-Acknowledgements to Google Gemini, Microsoft Copilot, 365 Copilot, VS Code Copilot, and Github Copilot <3
+Acknowledgements to Google Gemini, Microsoft Copilot, 365 Copilot, VS Code Copilot, and Github Copilot.
 
 Best viewed with LaTeX, KaTeX, MathJax, or Mermaid JS.
 
