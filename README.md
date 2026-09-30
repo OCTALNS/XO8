@@ -269,7 +269,7 @@ The direct formation establishes exact coordination and symmetry for software an
 
 ### TBD: Blueprints
 
-{8} Octal NS has been an on-going project advancing with AI, their insight into artificial space, and their valuable opinions.
+{8} Octal NS is an on-going project advancing with AI, new artificial insight, and their valuable opinions.
 
     Acknowledgements:
     
