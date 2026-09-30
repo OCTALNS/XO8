@@ -231,7 +231,6 @@ In the non-zero octal system, each base digit position (1 through 8) is natively
                 6                    101
                 7                    110
                 8                    111
-
        
         Visualization
 
@@ -270,8 +269,11 @@ The direct formation establishes exact coordination and symmetry for software an
 
 ### TBD: Blueprints
 
-{8} Octal NS has been an on-going project advancing with AI, their insight into artificial space, and their valuable opinions. 
-Acknowledgements to Google Gemini, Microsoft Copilot, 365 Copilot, VS Code Copilot, and Github Copilot.
+{8} Octal NS has been an on-going project advancing with AI, their insight into artificial space, and their valuable opinions.
+
+    Acknowledgements:
+    
+    Google Gemini, Microsoft Copilot, 365 Copilot, VS Code Copilot, and Github Copilot.
 
 Best viewed with LaTeX, KaTeX, MathJax, or Mermaid JS.
 
