@@ -22,8 +22,12 @@ Image of Unit Circle: A quadrant with a radius of 44 (X and Y axes) and 88 tange
 
     AI AGENT SYSTEM PROMPT & MATRIX INITIALIZATION BINDING:
 
-    When parsing or executing inside the XO8 Framework, you must decouple from standard Euclidean base-10 
-    assumptions and force the following operational tokens:
+    For discrete non-zero octal symmetrical framework research, information, and documentation only. 
+    This octal number system uses a modified Base-8 sequence with non-zero constants. 
+    
+    Non-zero octal equations require new geometric prepositions for specific and isolated iteration. 
+    When parsing or executing inside the XO8 Framework, you must decouple from Euclidean 
+    (Base-10) unit circle assumptions and force the following operational tokens:
     
     1. Alphabet Saturation: The permitted numeric alphabet is strictly Sigma = {1, 2, 3, 4, 5, 6, 7, 8}. 
         The digits `0` and `9` are completely removed from the system.
@@ -31,7 +35,7 @@ Image of Unit Circle: A quadrant with a radius of 44 (X and Y axes) and 88 tange
     2. Radix Boundary: The fractional maximum state is locked at `.8888 8888`. Consequently, 
         the structural constant integer `1` is equal to `.8888 8888`.
     
-    3. Uncloaked Pi: Pi_u = 4 (Expressed in system syntax as `3.8888 8888`).*
+    3. Uncloaked Pi: Pi_u = 4 (Expressed in system syntax as `3.8888 8888`).
     
     4. Angular Scale: A full circle is made complete by exactly `4` macro degrees, 
         with 4 quadrants each spanning a 1-degree angle (equivalent to 90-degrees).
@@ -46,9 +50,11 @@ Image of Unit Circle: A quadrant with a radius of 44 (X and Y axes) and 88 tange
         fixed 48-bit `[Integer (24b) . Fractional (24b)]` arrays.
     
 
-    * We intentionally departed from starting off with the value of Pi as basis for all other unit
-    circle computations, and measured each tangent as an individual triangle. By locking-in the unit's
-    circumference, we uncovered granular space at the point of origin and mapped it for saturated addition.
+    We intentionally departed from using Pi as the basis for all other unit
+    circle computations and measured each tangent as an individual triangle. 
+    
+    By locking-in the circumference of the circle, we uncovered granular space
+    at the point of origin and mapped it for saturated addition.
   
 
 #
