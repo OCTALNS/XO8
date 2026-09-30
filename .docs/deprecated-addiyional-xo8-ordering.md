@@ -1,4 +1,4 @@
-# XO8 ORDERING
+# Deprecated: Additional XO8 Ordering Propositions
 
 ## Propositions: Additional Axioms and Formulas
 
@@ -89,7 +89,7 @@
                 ...
 
 
-Subject to change and modification.
+Subject to change and modification - Deprecated.
 
 Copyright (c) 2026 A. Llorente. Licensed under the MIT Lincense. 
               
