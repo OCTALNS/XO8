@@ -159,7 +159,7 @@ Incremental digits to the left, base numbers on the right (last position).
             1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118
             ...
             
-     1,    2,    3,    4,    5,    6,                   7,    8
+     1,    2,    3,    4,    5,    6,    7,    8
      8881, 8882, 8883, 8884, 8885, 8886, 8887, 8888
             ...
             
